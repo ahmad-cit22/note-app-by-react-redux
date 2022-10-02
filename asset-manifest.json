@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/note-app-by-react-redux/static/css/main.fb63ee76.css",
-    "main.js": "/note-app-by-react-redux/static/js/main.c865f69c.js",
+    "main.css": "/note-app-by-react-redux/static/css/main.9e76b548.css",
+    "main.js": "/note-app-by-react-redux/static/js/main.3418c5c3.js",
     "static/js/415.b184d5a9.chunk.js": "/note-app-by-react-redux/static/js/415.b184d5a9.chunk.js",
     "index.html": "/note-app-by-react-redux/index.html",
-    "main.fb63ee76.css.map": "/note-app-by-react-redux/static/css/main.fb63ee76.css.map",
-    "main.c865f69c.js.map": "/note-app-by-react-redux/static/js/main.c865f69c.js.map",
+    "main.9e76b548.css.map": "/note-app-by-react-redux/static/css/main.9e76b548.css.map",
+    "main.3418c5c3.js.map": "/note-app-by-react-redux/static/js/main.3418c5c3.js.map",
     "415.b184d5a9.chunk.js.map": "/note-app-by-react-redux/static/js/415.b184d5a9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb63ee76.css",
-    "static/js/main.c865f69c.js"
+    "static/css/main.9e76b548.css",
+    "static/js/main.3418c5c3.js"
   ]
 }
